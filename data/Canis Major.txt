@@ -1,0 +1,29 @@
+Sirius      RA:  06h 45m 09.25s  Dec:  16  42  47.3  m:  -1.46
+  CMa     RA:  06h 58m 37.55s  Dec:  28 58  19.5  m: 1.5
+  CMa     RA:  07h 08m 23.49s  Dec:  26  23  35.5  m: 1.83
+  CMa     RA:  06h 22m 41.99s  Dec:  17  57  21.3  m: 1.98
+  CMa     RA:  07h 24m 05.71s  Dec:  29  18  11.2  m: 2.45
+  CMa     RA:  06h 20m 18.79s  Dec:  30  03  48.2  m: 3.02
+ 2 CMa  2   RA:  07h 03m 01.47s  Dec:  23  49  59.9  m: 3.02
+  CMa     RA:  07h 01m 43.15s  Dec:  27  56  05.4  m: 3.49
+  CMa     RA:  06h 49m 50.47s  Dec:  32  30  30.6  m: 3.5
+ 1 CMa  1   RA:  06h 54m 07.95s  Dec:  24  11  03.2  m: 3.89
+ 2 CMa  2   RA:  06h 36m 41.00s  Dec:  19  15  20.6  m: 3.95
+  CMa     RA:  07h 14m 48.66s  Dec:  26  46  21.7  m: 4.01
+  CMa     RA:  06h 54m 11.48s  Dec:  12  02  18.9  m: 4.08
+  CMa     RA:  07h 03m 45.49s  Dec:  15  37  59.7  m: 4.11
+ 1 CMa  1   RA:  06h 31m 51.37s  Dec:  23  25  06.4  m: 4.34
+  CMa     RA:  06h 56m 08.23s  Dec:  17  03  15.3  m: 4.36
+  CMa     RA:  07h 18m 42.49s  Dec:  24  57  15.8  m: 4.37
+ 3 CMa  3   RA:  06h 37m 53.43s  Dec:  18  14  14.8  m: 4.42
+EW CMa 27   RA:  07h 14m 15.22s  Dec:  26  21  09.1  m: 4.42
+  CMa     RA:  06h 28m 10.22s  Dec:  32  34  48.5  m: 4.47
+ 2 CMa  2   RA:  06h 35m 03.38s  Dec:  22  57  53.4  m: 4.54
+  CMa     RA:  06h 55m 37.40s  Dec:  20  08  11.7  m: 4.66
+147 G. CMa   RA:  07h 16m 35.00s  Dec:  27  52  52.6  m: 4.66
+61 G. CMa   RA:  06h 39m 16.72s  Dec:  14  08  44.7  m: 4.82
+EY CMa 15   RA:  06h 53m 32.91s  Dec:  20  13  27.3  m: 4.82
+145 G. CMa[5]   RA:  07h 16m 36.84s  Dec:  23  18  56.2  m: 4.83
+UW CMa 29   RA:  07h 18m 40.38s  Dec:  24  33  31.3  m: 4.88
+160 G. CMa   RA:  07h 22m 13.53s  Dec:  19  00  59.7  m: 4.94
+7 G. CMa   RA:  06h 15m 44.88s  Dec:  13  43  06.2  m: 5

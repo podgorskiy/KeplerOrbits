@@ -1,0 +1,39 @@
+Alioth   RA: 12h 54m 01.63s Dec: +55 57 35.4 m: 1.76
+Dubhe  RA: 11h 03m 43.84s Dec: +61 45 04.0 m: 1.81
+Alkaid  RA: 13h 47m 32.55s Dec: +49 18 47.9 m: 1.85
+Mizar  RA: 13h 23m 55.42s Dec: +54 55 31.5 m: 2.23
+Merak  RA: 11h 01m 50.39s Dec: +56 22 56.4 m: 2.34
+Phecda  RA: 11h 53m 49.74s Dec: +53 41 41.0 m: 2.41
+ UMa  RA: 11h 09m 39.86s Dec: +44 29 54.8 m: 3
+ UMa  RA: 10h 22m 19.80s Dec: +41 29 58.0 m: 3.06
+ UMa  RA: 08h 59m 12.84s Dec: +48 02 32.5 m: 3.12
+ UMa  RA: 09h 32m 52.33s Dec: +51 40 43.0 m: 3.17
+ UMa  RA: 12h 15m 25.45s Dec: +57 01 57.4 m: 3.32
+ UMa  RA: 08h 30m 16.03s Dec: +60 43 06.4 m: 3.35
+ UMa  RA: 10h 17m 05.93s Dec: +42 54 52.1 m: 3.45
+ UMa  RA: 11h 18m 28.76s Dec: +33 05 39.3 m: 3.49
+ UMa  RA: 09h 03m 37.56s Dec: +47 09 24.0 m: 3.57
+23 UMa  RA: 09h 31m 31.57s Dec: +63 03 42.5 m: 3.65
+ UMa  RA: 11h 46m 03.13s Dec: +47 46 45.6 m: 3.69
+ UMa  RA: 09h 50m 59.69s Dec: +59 02 20.8 m: 3.78
+ UMa A  RA: 11h 18m 11.24s Dec: +31 31 50.8 m: 3.79
+ UMa B  RA: 13h 23m 56.40s Dec: +54 55 18.0 m: 3.95
+Alcor  RA: 13h 25m 13.42s Dec: +54 59 16.8 m: 3.99
+ UMa B  RA: 11h 18m 11.00s Dec: +31 31 45.0 m: 4.41
+15 UMa  RA: 09h 08m 52.39s Dec: +51 36 17.0 m: 4.46
+26 UMa  RA: 09h 34m 49.49s Dec: +52 03 05.6 m: 4.47
+24 UMa  RA: 09h 34m 28.97s Dec: +69 49 48.6 m: 4.54
+ UMa  RA: 09h 52m 06.36s Dec: +54 03 51.4 m: 4.55
+2 UMa  RA: 08h 40m 12.90s Dec: +64 19 40.3 m: 4.59
+83 UMa  RA: 13h 40m 44.29s Dec: +54 40 54.0 m: 4.63
+ UMa  RA: 10h 53m 58.71s Dec: +43 11 24.1 m: 4.66
+ UMa  RA: 09h 10m 54.93s Dec: +63 30 49.6 m: 4.67
+ UMa  RA: 09h 11m 00.60s Dec: +63 31 29.0 m: 4.7
+ UMa  RA: 09h 02m 32.73s Dec: +67 37 46.5 m: 4.74
+55 UMa  RA: 11h 19m 07.94s Dec: +38 11 08.6 m: 4.76
+2 UMa  RA: 09h 10m 23.53s Dec: +67 08 03.3 m: 4.8
+18 UMa  RA: 09h 16m 11.28s Dec: +54 01 18.2 m: 4.8
+36 UMa  RA: 10h 30m 37.76s Dec: +55 58 50.2 m: 4.82
+78 UMa  RA: 13h 00m 43.59s Dec: +56 21 58.8 m: 4.93
+ET UMa  RA: 10h 24m 07.86s Dec: +65 33 59.3 m: 4.94
+56 UMa  RA: 11h 22m 49.61s Dec: +43 28 57.9 m: 4.99

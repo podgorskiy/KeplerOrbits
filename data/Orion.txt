@@ -1,0 +1,51 @@
+Rigel  RA: 05h 14m 32.27s Dec: 08 12 05.9 m: 0.18
+Betelgeuse  RA: 05h 55m 10.29s Dec: +07 24 25.3 m: 0.58
+Bellatrix  RA: 05h 25m 07.87s Dec: +06 20 59.0 m: 1.64
+Alnilam  RA: 05h 36m 12.81s Dec: 01 12 06.9 m: 1.69
+Alnitak A  RA: 05h 40m 45.52s Dec: 01 56 33.3 m: 1.74
+Saiph  RA: 05h 47m 45.39s Dec: 09 40 10.6 m: 2.07
+Mintaka A  RA: 05h 32m 00.40s Dec: 00 17 56.7 m: 2.25
+ Ori  RA: 05h 35m 25.98s Dec: 05 54 35.6 m: 2.75
+3 Ori  RA: 04h 49m 50.14s Dec: +06 57 40.5 m: 3.19
+ Ori  RA: 05h 24m 28.62s Dec: 02 23 49.7 m: 3.35
+Meissa A  RA: 05h 35m 08.28s Dec: +09 56 03.0 m: 3.39
+ Ori  RA: 05h 17m 36.40s Dec: 06 50 39.8 m: 3.59
+4 Ori  RA: 04h 51m 12.37s Dec: +05 36 18.4 m: 3.68
+5 Ori  RA: 04h 54m 15.10s Dec: +02 26 26.4 m: 3.71
+ Ori A  RA: 05h 38m 44.77s Dec: 02 36 00.2 m: 3.77
+2 Ori  RA: 04h 56m 22.32s Dec: +13 30 52.5 m: 4.06
+2 Ori  RA: 05h 36m 54.33s Dec: +09 17 29.1 m: 4.09
+ Ori  RA: 06h 02m 22.99s Dec: +09 38 50.5 m: 4.12
+29 Ori  RA: 05h 23m 56.84s Dec: 07 48 28.6 m: 4.13
+32 Ori  RA: 05h 30m 47.05s Dec: +05 56 53.6 m: 4.2
+Alnitak B  RA: 05h 40m 45.60s Dec: 01 56 34.0 m: 4.21
+2 Ori  RA: 04h 50m 36.72s Dec: +08 54 00.9 m: 4.35
+1 Ori  RA: 05h 34m 49.24s Dec: +09 29 22.5 m: 4.39
+1 Ori  RA: 05h 54m 23.08s Dec: +20 16 35.1 m: 4.39
+ Ori  RA: 06h 07m 34.32s Dec: +14 46 06.7 m: 4.42
+ Ori  RA: 06h 11m 56.40s Dec: +14 12 31.7 m: 4.45
+ Ori  RA: 05h 13m 17.48s Dec: +02 51 40.5 m: 4.46
+6 Ori  RA: 04h 58m 32.90s Dec: +01 42 50.5 m: 4.47
+ Ori  RA: 05h 39m 11.15s Dec: +04 07 17.3 m: 4.5
+161 G. Ori  RA: 06h 00m 03.35s Dec: 03 04 26.7 m: 4.53
+42 Ori  RA: 05h 35m 23.16s Dec: 04 50 18.0 m: 4.58
+ Ori  RA: 05h 26m 50.23s Dec: +03 05 44.4 m: 4.59
+ Ori  RA: 05h 31m 55.86s Dec: 07 18 05.5 m: 4.62
+1 Ori  RA: 04h 54m 53.70s Dec: +10 09 04.1 m: 4.64
+2 Ori  RA: 06h 03m 55.18s Dec: +20 08 18.5 m: 4.64
+11 Ori  RA: 05h 04m 34.14s Dec: +15 24 15.1 m: 4.65
+1 Ori  RA: 04h 52m 31.96s Dec: +14 15 02.8 m: 4.71
+31 Ori  RA: 05h 29m 43.98s Dec: 01 05 31.8 m: 4.71
+o Ori  RA: 05h 21m 45.75s Dec: 00 22 56.9 m: 4.72
+56 Ori  RA: 05h 52m 26.44s Dec: +01 51 18.6 m: 4.76
+49 Ori  RA: 05h 38m 53.09s Dec: 07 12 45.8 m: 4.77
+103 G. Ori  RA: 05h 35m 02.68s Dec: 06 00 07.3 m: 4.78
+15 Ori  RA: 05h 09m 41.96s Dec: +15 35 50.2 m: 4.81
+25 Ori  RA: 05h 24m 44.83s Dec: +01 50 47.2 m: 4.89
+51 Ori  RA: 05h 42m 28.66s Dec: +01 28 28.8 m: 4.9
+185 G. Ori  RA: 06h 19m 59.60s Dec: 02 56 40.2 m: 4.91
+127 G. Ori  RA: 05h 40m 50.72s Dec: 01 07 43.6 m: 4.95
+69 Ori  RA: 06h 12m 03.28s Dec: +16 07 49.6 m: 4.95
+1 Ori A  RA: 05h 35m 15.82s Dec: 05 23 14.3 m: 4.98
+2 Ori  RA: 05h 35m 22.90s Dec: 05 24 57.8 m: 4.98
+23 Ori  RA: 05h 22m 50.00s Dec: +03 32 40.0 m: 4.99

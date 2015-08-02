@@ -1,0 +1,31 @@
+  Cet RA: 00h 43m 35.23s Dec:  17  59  12.1  m: 2.04
+  Cet RA: 03h 02m 16.78s Dec: +04  05  23.7  m: 2.54
+Mira   RA: 02h 19m 20.79s Dec:  02  58  37.4  m: 3.04
+  Cet RA: 01h 08m 35.26s Dec:  10  10  54.9  m: 3.46
+  Cet RA: 02h 43m 18.12s Dec: +03  14  10.2  m: 3.47
+  Cet RA: 01h 44m 05.13s Dec:  15  56  22.4  m: 3.49
+  Cet RA: 00h 19m 25.68s Dec:  08  49  25.8  m: 3.56
+  Cet RA: 01h 24m 01.45s Dec:  08  10  57.9  m: 3.6
+  Cet RA: 01h 51m 27.61s Dec:  10  20  05.8  m: 3.74
+  Cet RA: 02h 00m 00.22s Dec:  21  04  40.0  m: 3.99
+  Cet RA: 02h 39m 28.95s Dec: +00  19  42.7  m: 4.08
+  Cet RA: 02h 44m 07.35s Dec:  13  51  31.2  m: 4.24
+  Cet RA: 02h 44m 56.37s Dec: +10  06  51.2  m: 4.27
+ 2 Cet RA: 02h 28m 09.52s Dec: +08  27  36.3  m: 4.3
+ 1 Cet RA: 02h 13m 00.01s Dec: +08  50  48.3  m: 4.36
+7 Cet RA: 00h 14m 38.43s Dec:  18  55  57.7  m: 4.44
+2 Cet RA: 00h 03m 44.37s Dec:  17  20  09.5  m: 4.55
+  Cet RA: 01h 49m 35.19s Dec:  10  41  10.3  m: 4.66
+  Cet RA: 02h 59m 42.90s Dec: +08  54  26.6  m: 4.71
+  Cet RA: 02h 32m 05.28s Dec:  15  14  39.6  m: 4.74
+ 1 Cet RA: 00h 44m 11.41s Dec:  10  36  33.4  m: 4.77
+20 Cet RA: 00h 53m 00.49s Dec:  01  08  39.2  m: 4.78
+  Cet RA: 02h 39m 33.73s Dec:  11  52  17.7  m: 4.83
+ 1 Cet RA: 03h 19m 21.54s Dec: +03  22  11.9  m: 4.84
+  Cet RA: 02h 35m 52.49s Dec: +05  35  35.9  m: 4.87
+  Cet RA: 02h 25m 57.01s Dec:  12  17  25.6  m: 4.88
+6 Cet RA: 00h 11m 15.91s Dec:  15  28  02.4  m: 4.89
+46 Cet RA: 01h 25m 37.21s Dec:  14  35  55.5  m: 4.9
+56 Cet RA: 01h 56m 40.16s Dec:  22  31  36.2  m: 4.92
+175 G. RA: 01h 42m 43.52s Dec:  03  41  24.4  m: 4.98
+3 Cet RA: 00h 04m 30.12s Dec:  10  30  34.2  m: 4.99

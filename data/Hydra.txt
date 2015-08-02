@@ -1,0 +1,44 @@
+Alphard   RA: 09h 27m 35.25s  Dec:   08  39  31.3   m: 1.99
+  Hya  RA: 13h 18m 55.25s  Dec:   23  10  17.1   m: 2.99
+  Hya  RA: 08h 55m 23.68s  Dec:  +05  56  43.9   m: 3.11
+  Hya  RA: 10h 49m 37.43s  Dec:   16  11  38.9   m: 3.11
+  Hya  RA: 14h 06m 22.27s  Dec:   26  40  55.3   m: 3.25
+  Hya  RA: 08h 46m 46.65s  Dec:  +06  25  08.1   m: 3.38
+  Hya  RA: 11h 33m 00.26s  Dec:   31  51  27.1   m: 3.54
+  Hya  RA: 10h 10m 35.40s  Dec:   12  21  13.8   m: 3.61
+  Hya  RA: 10h 26m 05.51s  Dec:   16  50  09.9   m: 3.83
+  Hya  RA: 09h 14m 21.79s  Dec:  +02  18  54.1   m: 3.89
+  Hya  RA: 09h 39m 51.33s  Dec:   01  08  33.6   m: 3.9
+19 G.  RA: 08h 25m 39.67s  Dec:   03  54  22.9   m: 3.91
+ 1 Hya  RA: 09h 51m 28.68s  Dec:   14  50  47.6   m: 4.11
+  Hya  RA: 08h 37m 39.41s  Dec:  +05  42  13.7   m: 4.14
+  Hya  RA: 11h 52m 54.56s  Dec:   33  54  29.3   m: 4.29
+  Hya  RA: 08h 43m 13.49s  Dec:  +03  23  55.2   m: 4.3
+12 Hya  RA: 08h 46m 22.53s  Dec:   13  32  51.7   m: 4.32
+  Hya  RA: 08h 48m 25.98s  Dec:  +05  50  16.4   m: 4.35
+58 Hya  RA: 14h 50m 17.47s  Dec:   27  57  36.8   m: 4.42
+  Hya  RA: 08h 38m 45.45s  Dec:  +03  20  29.3   m: 4.45
+ 2 Hya  RA: 09h 31m 58.93s  Dec:   01  11  04.8   m: 4.54
+ 1 Hya  RA: 09h 29m 08.84s  Dec:   02  46  08.2   m: 4.59
+ 2 Hya  RA: 10h 05m 07.49s  Dec:   13  03  52.8   m: 4.6
+51 G.  RA: 08h 43m 40.38s  Dec:   07  14  01.4   m: 4.63
+2 Sex  RA: 09h 38m 27.39s  Dec:  +04  38  57.9   m: 4.68
+  Hya  RA: 11h 40m 12.82s  Dec:   34  44  40.8   m: 4.7
+141 G.  RA: 09h 27m 18.30s  Dec:   22  20  36.3   m: 4.72
+174 G.  RA: 09h 41m 17.03s  Dec:   23  35  29.5   m: 4.76
+26 Hya  RA: 09h 19m 46.40s  Dec:   11  58  29.6   m: 4.77
+51 Hya  RA: 14h 23m 05.91s  Dec:   27  45  13.4   m: 4.78
+27 Hya  RA: 09h 20m 29.03s  Dec:   09  33  20.3   m: 4.8
+9 Hya  RA: 08h 41m 43.33s  Dec:   15  56  35.3   m: 4.87
+181 G.  RA: 09h 54m 12.44s  Dec:   25  55  56.9   m: 4.87
+241 G.  RA: 10h 37m 13.80s  Dec:   27  24  45.7   m: 4.87
+U Hya  RA: 10h 37m 33.25s  Dec:   13  23  04.0   m: 4.89
+  Hya  RA: 10h 38m 35.01s  Dec:   16  52  35.9   m: 4.91
+ 1 Hya  RA: 11h 05m 20.03s  Dec:   27  17  36.9   m: 4.92
+175 G.  RA: 09h 42m 14.67s  Dec:   23  54  58.4   m: 4.93
+17 Crt  RA: 11h 32m 16.42s  Dec:   29  15  40.9   m: 4.93
+183 G.  RA: 09h 54m 52.24s  Dec:   19  00  33.4   m: 4.94
+  Hya  RA: 13h 09m 03.28s  Dec:   23  07  04.7   m: 4.94
+l Hya  RA: 14h 28m 10.44s  Dec:   29  29  29.7   m: 4.97
+6 Hya  RA: 08h 40m 01.52s  Dec:   12  28  31.3   m: 4.98
+  Hya  RA: 09h 05m 58.38s  Dec:  +05  05  32.4   m: 4.99

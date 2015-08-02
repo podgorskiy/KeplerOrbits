@@ -1,0 +1,136 @@
+Mercury
+-----------------------
+Semimajor axis                     0.38709893 
+Orbital eccentricity               0.20563069
+Orbital inclination (deg)          7.00487
+Longitude of ascending node (deg)  48.33167 
+Longitude of perihelion (deg)      77.45645
+Mean Longitude (deg)               252.25084
+Epoch                              2451545
+Sidereal orbit period (days)       87.969
+end
+
+Venus
+-----------------------
+Semimajor axis                     0.72333199 
+Orbital eccentricity               0.00677323
+Orbital inclination (deg)          3.39471
+Longitude of ascending node (deg)  76.68069 
+Longitude of perihelion (deg)      131.53298
+Mean Longitude (deg)               181.97973
+Epoch                              2451545
+Sidereal orbit period (days)       224.701
+end
+
+Earth
+-----------------------
+Semimajor axis                     1.00000011 
+Orbital eccentricity               0.01671022
+Orbital inclination (deg)          0.00005
+Longitude of ascending node (deg)  -11.26064 
+Longitude of perihelion (deg)      102.94719
+Mean Longitude (deg)               100.46435
+Epoch                              2451545
+Sidereal orbit period (days)       365.256
+end
+
+Mars
+-----------------------
+Semimajor axis                     1.52366231 
+Orbital eccentricity               0.09341233
+Orbital inclination (deg)          1.85061
+Longitude of ascending node (deg)  49.57854 
+Longitude of perihelion (deg)      336.04084
+Mean Longitude (deg)               355.45332
+Epoch                              2451545
+Sidereal orbit period (days)       686.980
+end
+
+Jupiter
+-----------------------
+Semimajor axis                     5.203363011 
+Orbital eccentricity               0.04839266
+Orbital inclination (deg)          1.30530
+Longitude of ascending node (deg)  100.55615 
+Longitude of perihelion (deg)      14.75385
+Mean Longitude (deg)               34.40438
+Epoch                              2451545
+Sidereal orbit period (days)       4332.589
+end
+
+Saturn
+-----------------------
+Semimajor axis                     9.53707032 
+Orbital eccentricity               0.05415060
+Orbital inclination (deg)          2.48446
+Longitude of ascending node (deg)  113.71504 
+Longitude of perihelion (deg)      92.43194
+Mean Longitude (deg)               49.94432
+Epoch                              2451545
+Sidereal orbit period (days)       10759.22
+end
+
+Uranus
+-----------------------
+Semimajor axis                     19.19126393 
+Orbital eccentricity               0.04716771
+Orbital inclination (deg)          0.76986
+Longitude of ascending node (deg)  74.22988 
+Longitude of perihelion (deg)      170.96424
+Mean Longitude (deg)               313.23218
+Epoch                              2451545
+Sidereal orbit period (days)       30685.4
+end
+
+Neptune
+-----------------------
+Semimajor axis                     30.06896348 
+Orbital eccentricity               0.00858587
+Orbital inclination (deg)          1.76917
+Longitude of ascending node (deg)  131.72169
+Longitude of perihelion (deg)      44.97135
+Mean Longitude (deg)               304.88003
+Epoch                              2451545
+Sidereal orbit period (days)       60189
+end
+
+Pluto
+-----------------------
+Semimajor axis                     39.48168677 
+Orbital eccentricity               0.24880766
+Orbital inclination (deg)          17.14175
+Longitude of ascending node (deg)  110.30347 
+Longitude of perihelion (deg)      224.06676  
+Mean Longitude (deg)               238.92881
+Epoch                              2451545
+Sidereal orbit period (days)       90465
+end
+
+
+Sedna (2003 VB12)
+-----------------------
+Semimajor axis                     544.0690504866262 
+Orbital eccentricity               0.8598045771920355	
+Orbital inclination (deg)          11.92819679107613	
+Longitude of ascending node (deg)  144.4217446113967	 
+Longitude of perihelion (deg)      455.3715618630623
+Mean Longitude (deg)               813.5892172541679
+Epoch                              2456200.5
+Sidereal orbit period (days)       4635317.206254945
+end
+
+
+1P/Halley
+-----------------------
+Semimajor axis                     17.8341442925537	
+Orbital eccentricity               0.967142908462304	
+Orbital inclination (deg)          162.262690579161		
+Longitude of ascending node (deg)  58.42008097656843		 
+Longitude of perihelion (deg)      169.75256608108613
+Mean Longitude (deg)               208.13683055752493
+Epoch                              2449400.5
+Sidereal orbit period (days)       27509.1290731861
+end
+
+
+

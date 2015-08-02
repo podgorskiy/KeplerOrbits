@@ -1,0 +1,10 @@
+Polaris   RA: 02h 31m 47.08s Dec: +89  15  50.9  m: 1.97
+  UMi RA: 14h 50m 42.40s Dec: +74  09  19.7  m: 2.07
+  UMi RA: 15h 20m 43.75s Dec: +71  50  02.3  m: 3
+  UMi RA: 16h 45m 58.16s Dec: +82  02  14.1  m: 4.21
+5 UMi RA: 14h 27m 31.52s Dec: +75  41  45.4  m: 4.25
+  UMi RA: 15h 44m 03.46s Dec: +77  47  40.2  m: 4.29
+  UMi RA: 17h 32m 12.90s Dec: +86  35  10.8  m: 4.35
+RR UMi RA: 14h 57m 35.12s Dec: +65  55  56.6  m: 4.63
+4 UMi RA: 14h 08m 51.01s Dec: +77  32  50.8  m: 4.8
+  UMi RA: 16h 17m 30.50s Dec: +75  45  16.9  m: 4.95

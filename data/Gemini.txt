@@ -1,0 +1,26 @@
+Pollux   RA: 07h 45m 19.36s  Dec:  +28  01  34.7   m: 1.16
+Castor A RA: 07h 34m 36.00s  Dec:  +31  53  19.1   m: 1.58
+  Gem RA: 06h 37m 42.70s  Dec:  +16  23  57.9   m: 1.93
+  Gem RA: 06h 22m 57.59s  Dec:  +22  30  49.9   m: 2.87
+Castor B RA: 07h 34m 36.00s  Dec:  +31  53  19.0   m: 2.88
+  Gem RA: 06h 43m 55.93s  Dec:  +25  07  52.2   m: 3.06
+  Gem RA: 06h 14m 52.70s  Dec:  +22  30  24.6   m: 3.31
+  Gem RA: 06h 45m 17.43s  Dec:  +12  53  45.8   m: 3.35
+  Gem RA: 07h 20m 07.39s  Dec:  +21  58  56.4   m: 3.5
+  Gem RA: 07h 44m 26.87s  Dec:  +24  23  53.3   m: 3.57
+  Gem RA: 07h 18m 05.61s  Dec:  +16  32  25.7   m: 3.58
+  Gem RA: 06h 52m 47.34s  Dec:  +33  57  40.9   m: 3.6
+  Gem RA: 07h 25m 43.68s  Dec:  +27  47  53.8   m: 3.78
+  Gem RA: 07h 04m 06.54s  Dec:  +20  34  13.1   m: 4.01
+  Gem RA: 07h 35m 55.37s  Dec:  +26  53  45.6   m: 4.06
+  Gem RA: 06h 28m 57.79s  Dec:  +20  12  43.8   m: 4.13
+1 Gem RA: 06h 04m 07.22s  Dec:  +23  15  49.1   m: 4.16
+  Gem RA: 07h 29m 06.61s  Dec:  +31  47  02.7   m: 4.16
+  Gem RA: 07h 43m 18.69s  Dec:  +28  53  02.7   m: 4.23
+  Gem RA: 07h 11m 08.39s  Dec:  +30  14  43.0   m: 4.41
+30 Gem RA: 06h 43m 59.29s  Dec:  +13  13  41.3   m: 4.49
+38 Gem RA: 06h 54m 38.59s  Dec:  +13  10  40.9   m: 4.73
+  Gem RA: 07h 39m 09.96s  Dec:  +34  35  04.7   m: 4.89
+81 Gem RA: 07h 46m 07.49s  Dec:  +18  30  36.6   m: 4.89
+  Gem RA: 08h 03m 31.10s  Dec:  +27  47  39.9   m: 4.94
+  Gem RA: 07h 53m 29.84s  Dec:  +26  45  57.1   m: 4.97
