@@ -1,0 +1,23 @@
+#pragma once
+#include "Mesh.h"
+#include "KeplerOrbits/Body.h"
+#include "VertexDeclarations.h"
+
+#include <bgfx.h>
+#include <vector>
+
+struct TrajectoryVertex;
+
+class Mask
+{
+public:
+	Mask();
+
+	/* Renders mesh. */
+	void Render(const RenderContext& cntxt);
+
+	void SetColor(const float color[3]);
+
+private:
+	float		m_color[4];
+};
