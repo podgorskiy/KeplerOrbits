@@ -1,0 +1,136 @@
+<data>
+    <bodies>
+        <body name="Sun">
+            <SemimajorAxis value="0" />
+            <Eccentricity value="0" />
+            <Inclination value="0" />
+            <LongitudeOfAscendingNode value="0" />
+            <LongitudeOfPerihelion value="0" />
+            <MeanLongitude value="0" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="1" />
+			<OrbitColor value="FFFF00" />
+        </body>
+        <body name="Mercury">
+            <SemimajorAxis value="0.38709893" />
+            <Eccentricity value="0.20563069" />
+            <Inclination value="7.00487" />
+            <LongitudeOfAscendingNode value="48.33167" />
+            <LongitudeOfPerihelion value="77.45645" />
+            <MeanLongitude value="252.25084" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="87.969" />
+			<OrbitColor value="FF00AA" />
+        </body>
+        <body name="Venus">
+            <SemimajorAxis value="0.72333199" />
+            <Eccentricity value="0.00677323" />
+            <Inclination value="3.39471" />
+            <LongitudeOfAscendingNode value="76.68069" />
+            <LongitudeOfPerihelion value="131.53298" />
+            <MeanLongitude value="181.97973" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="224.701" />
+			<OrbitColor value="926DAA" />
+        </body>
+        <body name="Earth">
+            <SemimajorAxis value="1.00000011" />
+            <Eccentricity value="0.01671022" />
+            <Inclination value="0.00005" />
+            <LongitudeOfAscendingNode value="-11.26064" />
+            <LongitudeOfPerihelion value="102.94719" />
+            <MeanLongitude value="100.46435" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="365.256" />
+			<OrbitColor value="00B6FF" />
+        </body>
+        <body name="Mars">
+            <SemimajorAxis value="1.52366231" />
+            <Eccentricity value="0.09341233" />
+            <Inclination value="1.85061" />
+            <LongitudeOfAscendingNode value="49.57854" />
+            <LongitudeOfPerihelion value="336.04084" />
+            <MeanLongitude value="355.45332" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="686.980" />
+			<OrbitColor value="FF2400" />
+        </body>
+        <body name="Jupiter">
+            <SemimajorAxis value="5.203363011" />
+            <Eccentricity value="0.04839266" />
+            <Inclination value="1.30530" />
+            <LongitudeOfAscendingNode value="100.55615" />
+            <LongitudeOfPerihelion value="14.75385" />
+            <MeanLongitude value="34.40438" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="4332.589" />
+			<OrbitColor value="FF9200" />
+        </body>
+        <body name="Saturn">
+            <SemimajorAxis value="9.53707032" />
+            <Eccentricity value="0.05415060" />
+            <Inclination value="2.48446" />
+            <LongitudeOfAscendingNode value="113.71504" />
+            <LongitudeOfPerihelion value="92.43194" />
+            <MeanLongitude value="49.94432" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="10759.22" />
+			<OrbitColor value="FFFF55" />
+        </body>
+        <body name="Uranus">
+            <SemimajorAxis value="19.19126393" />
+            <Eccentricity value="0.04716771" />
+            <Inclination value="0.76986" />
+            <LongitudeOfAscendingNode value="74.22988" />
+            <LongitudeOfPerihelion value="170.96424" />
+            <MeanLongitude value="313.23218" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="30685.4" />
+			<OrbitColor value="24FFAA" />
+        </body>
+        <body name="Neptune">
+            <SemimajorAxis value="30.06896348" />
+            <Eccentricity value="0.00858587" />
+            <Inclination value="1.76917" />
+            <LongitudeOfAscendingNode value="131.72169" />
+            <LongitudeOfPerihelion value="44.97135" />
+            <MeanLongitude value="304.88003" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="60189" />
+			<OrbitColor value="6DB6FF" />
+        </body>
+        <body name="Pluto">
+            <SemimajorAxis value="39.48168677" />
+            <Eccentricity value="0.24880766" />
+            <Inclination value="17.14175" />
+            <LongitudeOfAscendingNode value="110.30347" />
+            <LongitudeOfPerihelion value="224.06676" />
+            <MeanLongitude value="238.92881" />
+            <Epoch value="2451545" />
+            <SiderealOrbitPeriod value="90465" />
+			<OrbitColor value="6D6DFF" />
+        </body>
+        <body name="Sedna">
+            <SemimajorAxis value="544.0690504866262" />
+            <Eccentricity value="0.8598045771920355" />
+            <Inclination value="11.92819679107613" />
+            <LongitudeOfAscendingNode value="144.4217446113967" />
+            <LongitudeOfPerihelion value="455.3715618630623" />
+            <MeanLongitude value="813.5892172541679" />
+            <Epoch value="2456200.5" />
+            <SiderealOrbitPeriod value="4635317.206254945" />
+			<OrbitColor value="6D6DAA" />
+        </body>
+        <body name="1P/Halley">
+            <SemimajorAxis value="17.8341442925537" />
+            <Eccentricity value="0.967142908462304" />
+            <Inclination value="162.262690579161" />
+            <LongitudeOfAscendingNode value="58.42008097656843" />
+            <LongitudeOfPerihelion value="169.75256608108613" />
+            <MeanLongitude value="208.13683055752493" />
+            <Epoch value="2449400.5" />
+            <SiderealOrbitPeriod value="27509.1290731861" />
+			<OrbitColor value="0049FF" />
+        </body>
+    </bodies>
+</data>

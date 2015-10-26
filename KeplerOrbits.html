@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=0.5, maximum-scale=0.5">
+	<meta name="description" content="KeplerOrbits." />
+	<meta name="keywords" content="Kepler Orbites solarsystem" />
+	<meta name="author" content="Stanislav Pidhorskyi" />
+		
+	<title>KeplerOrbites</title>
+       <style>
+      body {
+        background-color: black;
+	  	border-width: 0;
+        margin: 0;
+        padding: 0;
+		overflow: hidden;
+		position: absolute;
+      }
+	   </style>
+  </head>
+  <body>
+  
+	<canvas style="background-color: black; position: absolute;" class="emscripten" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+		
+    <script type='text/javascript'>
+		var Module = {
+        postRun: function(){
+			resizeModule = Module.cwrap('resizeModule', 'null', ['number', 'number']);
+		},
+        print: function(text) {
+            console.error(text);
+        },
+        printErr: function(text) {
+            console.error(text);
+        },
+        canvas: (function() {
+          var canvas = document.getElementById('canvas');
+          canvas.addEventListener("webglcontextlost", function(e) { alert('WebGL context lost. You will need to reload the page.'); e.preventDefault(); }, false);
+          return canvas;
+        })(),
+        setStatus: function() {},
+        totalDependencies: 0,
+        monitorRunDependencies: function() {}
+      };
+	  
+	  var width = 0;
+	  var height = 0;
+	  
+	  function UpdateCanvas()
+	  {
+			var newWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)
+			var newHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
+			if (width != newWidth || height != newHeight)
+			{
+				width = newWidth;
+				height = newHeight;
+				Module.canvas.width = width;
+				Module.canvas.height  = height;
+				resizeModule(width, height);
+			}
+	  }
+	
+	function GrabLocation() {
+		if (navigator.geolocation) {
+			navigator.geolocation.getCurrentPosition(SetPosition);
+		}
+	}
+
+	function SetPosition(position) {
+		longitude = position.coords.longitude; 
+		latitude = position.coords.latitude; 
+		setGeoLocation= Module.cwrap('setGeoLocation', 'null', ['number', 'number']);
+		setGeoLocation(latitude, longitude)
+	}
+    </script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-54781662-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+    <script async="" type="text/javascript" src="KeplerOrbits.js"></script>
+</body></html>
