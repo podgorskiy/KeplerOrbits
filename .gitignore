@@ -20,9 +20,28 @@
 *.lai
 *.la
 *.a
+*.d
 *.lib
 
 # Executables
 *.exe
 *.out
 *.app
+*.bc
+
+*.idb
+*.pdb
+*.sdf
+*.suo
+*.opensdf
+*.cache
+*.log
+*.tlog
+/shaders/fs_colorLit.h
+/shaders/fs_icon.h
+/shaders/vs_icon.h
+/shaders/vs_simple.h
+/data/data.h
+/data/licence_text.h
+/projects/vs2010
+/projects/vs2013
