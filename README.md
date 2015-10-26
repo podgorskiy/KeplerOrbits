@@ -1,4 +1,4 @@
-#[KeplerOrbits](https://github.com/podgorskiy/KeplerOrbits) - Tool that calculates position of celestial bodies using their orbital elements.
+#[KeplerOrbits](https://github.com/podgorskiy/KeplerOrbits) - Tool that calculates positions of celestial bodies using their orbital elements.
 ============================================================================
 
 Provides view of the solar system from different sides and provides view from the observer on Earth (you need to specify your location coordinates).
@@ -15,7 +15,9 @@ Emscripten link flags: -s TOTAL_MEMORY=50000000 -s EXPORTED_FUNCTIONS="['_main',
 #Links
 
 http://ssd.jpl.nasa.gov/?ss_outer
+
 http://ssd.jpl.nasa.gov/?horizons
+
 http://www.fourmilab.ch/cgi-bin/Yoursky
 
 Orbital elements of celestial bodies were taken from here: 
