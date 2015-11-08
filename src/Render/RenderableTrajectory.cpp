@@ -4,6 +4,8 @@
 #include "MaterialManager.h"
 #include "KeplerOrbits/CoordinateSystems.h"
 
+#include <cstring>
+
 RenderableTrajectory::RenderableTrajectory(const KeplerOrbits::Trajectory& trajectory)
 {
 	int id = 0;

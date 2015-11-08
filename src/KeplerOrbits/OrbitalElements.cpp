@@ -52,7 +52,7 @@ double OrbitalElements::GetEccentricAnomaly(double m) const
 #ifdef __EMSCRIPTEN__
 		delta = fabs(e_ - e);
 #else
-		delta = abs(e_ - e);
+		delta = std::abs(e_ - e);
 #endif
 		e_ = e;
 	}

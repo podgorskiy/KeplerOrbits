@@ -3,6 +3,8 @@
 #include "VertexDeclarations.h"
 #include "MaterialManager.h"
 
+#include <cstring>
+
 Icon::Icon()
 {
 	static const TrajectoryVertex vertices[4] =
