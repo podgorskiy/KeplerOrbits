@@ -15,7 +15,7 @@
 			"name": "gmake",
 			"cmd": ["make", "config=debug64"],
 			"working_dir": "${project_path}/projects/gmake/",
-			"file_regex": "^(?:.*:)?(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+			"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
 			"selector": "source.c, source.c++, source.cxx",
 			"variants": [
 				{
