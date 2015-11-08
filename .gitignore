@@ -37,11 +37,7 @@
 *.cache
 *.log
 *.tlog
-/shaders/fs_colorLit.h
-/shaders/fs_icon.h
-/shaders/vs_icon.h
-/shaders/vs_simple.h
-/data/data.h
-/data/licence_text.h
-/projects/vs2010
-/projects/vs2013
+/shaders/fs_*.h
+/shaders/vs_*.h
+/data/*.h
+/projects
