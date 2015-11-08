@@ -1,0 +1,35 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4
+	},
+	"build_systems":
+	[
+		{
+			"name": "gmake",
+			"cmd": ["make", "config=debug64"],
+			"working_dir": "${project_path}/projects/gmake/",
+			"file_regex": "^(?:.*:)?(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+			"selector": "source.c, source.c++, source.cxx",
+			"variants": [
+				{
+					"cmd": ["${project_path}/KeplerOrbits"],
+					"shell": true,
+					"name": "Run"
+				}
+			]
+		},
+		{
+			"name": "genie",
+			"cmd": ["./generate.sh", "gmake"],
+			"working_dir": "${project_path}",
+			"selector": "source.lua"
+		}
+	]
+}
