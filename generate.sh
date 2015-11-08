@@ -1,2 +1,2 @@
-#bash
+#!/bin/bash
 libs/bx/tools/bin/linux/genie "$@"
