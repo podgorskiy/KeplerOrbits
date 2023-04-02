@@ -5,7 +5,7 @@ Provides view of the solar system from different sides and provides view from th
 
 Runs on multiple platforms, including Asm.JS (Emscripten)
 
-[Web Demo](http://podgorskiy.com/KeplerOrbits/KeplerOrbits.html)
+[Web Demo](http://pidhorskyi.com/KeplerOrbits/KeplerOrbits.html)
 
 #Some info:
 
